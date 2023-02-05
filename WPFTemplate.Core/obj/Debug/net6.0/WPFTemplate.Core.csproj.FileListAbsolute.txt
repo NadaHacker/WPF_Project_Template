@@ -1,0 +1,12 @@
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\bin\Debug\net6.0\WPFTemplate.Core.deps.json
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\bin\Debug\net6.0\WPFTemplate.Core.dll
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\bin\Debug\net6.0\WPFTemplate.Core.pdb
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.csproj.AssemblyReference.cache
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.AssemblyInfo.cs
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.dll
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\refint\WPFTemplate.Core.dll
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\WPFTemplate.Core.pdb
+C:\Users\jared\source\repos\ProjectTemplates\WPF_Project_Template\WPFTemplate.WPF\WPFTemplate.Core\obj\Debug\net6.0\ref\WPFTemplate.Core.dll

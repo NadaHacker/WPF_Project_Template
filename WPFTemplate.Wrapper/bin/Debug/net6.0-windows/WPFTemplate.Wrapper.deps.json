@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WPFTemplate.Wrapper/1.0.0": {
+        "dependencies": {
+          "WPFTemplate.WPF": "1.0.0"
+        },
+        "runtime": {
+          "WPFTemplate.Wrapper.dll": {}
+        }
+      },
+      "WPFTemplate.Core/1.0.0": {
+        "runtime": {
+          "WPFTemplate.Core.dll": {}
+        }
+      },
+      "WPFTemplate.WPF/1.0.0": {
+        "dependencies": {
+          "WPFTemplate.Core": "1.0.0"
+        },
+        "runtime": {
+          "WPFTemplate.WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFTemplate.Wrapper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPFTemplate.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WPFTemplate.WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
